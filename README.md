@@ -17,6 +17,10 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 3. Re-Complie your Less if using a static compiler. Otherwise, you should be good to go.
 4. Check out the examples
 
+### Using CDN   
+CSS - `<link rel="stylesheet" href="https://socialcolors.jseidl.at/1.0.0/socialColors.css">`    
+Min-CSS - `<link rel="stylesheet" href="https://socialcolors.jseidl.at/1.0.0/socialColors.min.css">` 
+
 ## Examples
 
 ### Basic use

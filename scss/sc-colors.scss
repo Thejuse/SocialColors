@@ -1,0 +1,158 @@
+/*!
+ *  SocialColors 2.0.0 by Julian Seidl
+ *  License - MIT
+ *  Copyright (c) 2017-2018 - Julian Seidl
+ */
+
+.#{$sc-css-prefix}{
+    &.#{$sc-css-prefix}-amazon{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-amazon;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-amazon;
+        }
+    }
+    &.#{$sc-css-prefix}-askfm{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-askfm;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-askfm;
+        }
+    }
+    &.#{$sc-css-prefix}-atlassian{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-atlassian;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-atlassian;
+        }
+    }
+    &.#{$sc-css-prefix}-bitbucket{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-bitbucket;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-bitbucket;
+        }
+    }
+    &.#{$sc-css-prefix}-bitly{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-bitly;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-bitly;
+        }
+    }
+    &.#{$sc-css-prefix}-blogger{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-blogger;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-blogger;
+        }
+    }
+    &.#{$sc-css-prefix}-bookingcom{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-bookingcom;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-bookingcom;
+        }
+    }
+    &.#{$sc-css-prefix}-codecademy{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-codecademy;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-codecademy;
+        }
+    }
+    &.#{$sc-css-prefix}-codepen{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-codepen;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-codepen;
+        }
+    }
+    &.#{$sc-css-prefix}-dailymotion{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-dailymotion;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-dailymotion;
+        }
+    }
+    &.#{$sc-css-prefix}-docker{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-docker;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-docker;
+        }
+    }
+    &.#{$sc-css-prefix}-dropbox{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-dropbox;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-dropbox;
+        }
+    }
+    &.#{$sc-css-prefix}-envato{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-envato;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-envato;
+        }
+    }
+    &.#{$sc-css-prefix}-facebook{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-facebook;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-facebook;
+        }
+    }
+    &.#{$sc-css-prefix}-github{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-github;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-github;
+        }
+    }
+}

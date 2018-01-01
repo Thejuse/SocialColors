@@ -155,4 +155,244 @@
             color: $sc-var-github;
         }
     }
+    &.#{$sc-css-prefix}-gitlab{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-gitlab;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-gitlab;
+        }
+    }
+    &.#{$sc-css-prefix}-google{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-google;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-google;
+        }
+    }
+    &.#{$sc-css-prefix}-googleplus{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-googleplus;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-googleplus;
+        }
+    }
+    &.#{$sc-css-prefix}-html5{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-html5;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-html5;
+        }
+    }
+    &.#{$sc-css-prefix}-imgur{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-imgur;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-imgur;
+        }
+    }
+    &.#{$sc-css-prefix}-indiegogo{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-indiegogo;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-indiegogo;
+        }
+    }
+    &.#{$sc-css-prefix}-instagram{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-instagram;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-instagram;
+        }
+    }
+    &.#{$sc-css-prefix}-ios{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-ios;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-ios;
+        }
+    }
+    &.#{$sc-css-prefix}-issuu{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-issuu;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-issuu;
+        }
+    }
+    &.#{$sc-css-prefix}-istock{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-istock;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-istock;
+        }
+    }
+    &.#{$sc-css-prefix}-javascript{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-javascript;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-javascript;
+        }
+    }
+    &.#{$sc-css-prefix}-joomla{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-joomla;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-joomla;
+        }
+    }
+    &.#{$sc-css-prefix}-jquery{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-jquery;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-jquery;
+        }
+    }
+    &.#{$sc-css-prefix}-kickstarter{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-kickstarter;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-kickstarter;
+        }
+    }
+    &.#{$sc-css-prefix}-laravel{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-laravel;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-laravel;
+        }
+    }
+    &.#{$sc-css-prefix}-lastfm{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-lastfm;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-lastfm;
+        }
+    }
+    &.#{$sc-css-prefix}-linkedin{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-linkedin;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-linkedin;
+        }
+    }
+    &.#{$sc-css-prefix}-magento{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-magento;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-magento;
+        }
+    }
+    &.#{$sc-css-prefix}-mailchimp{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-mailchimp;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-mailchimp;
+        }
+    }
+    &.#{$sc-css-prefix}-messenger{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-messenger;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-messenger;
+        }
+    }
+    &.#{$sc-css-prefix}-mongodb{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-mongodb;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-mongodb;
+        }
+    }
+    &.#{$sc-css-prefix}-musixmatch{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-musixmatch;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-musixmatch;
+        }
+    }
+    &.#{$sc-css-prefix}-mysql{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-mysql;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-mysql;
+        }
+    }
+    &.#{$sc-css-prefix}-netflix{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-netflix;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-netflix;
+        }
+    }
 }

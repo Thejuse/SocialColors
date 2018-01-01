@@ -439,3 +439,20 @@
 
 .sc.sc-zapier.sc-color {
   color: #ff4a00; }
+
+/*!
+ *  SocialColors 2.0.0 by Julian Seidl
+ *  License - MIT
+ *  Copyright (c) 2017-2018 - Julian Seidl
+ */
+.sc.sc-black.sc-hover:hover {
+  color: #000000; }
+
+.sc.sc-black.sc-color {
+  color: #000000; }
+
+.sc.sc-white.sc-hover:hover {
+  color: #ffffff; }
+
+.sc.sc-white.sc-color {
+  color: #ffffff; }

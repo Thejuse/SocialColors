@@ -21,6 +21,9 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 CSS - `<link rel="stylesheet" href="https://cdn.jseidl.at/socialcolors/socialcolors.css">`    
 Min-CSS - `<link rel="stylesheet" href="https://cdn.jseidl.at/socialcolors/socialcolors.min.css">` 
 
+### Using NPM
+`npm install socialcolors` - Add to your NPM-Project
+
 ## Examples
 
 ### Basic use

@@ -1,0 +1,25 @@
+{
+  "name": "socialcolors",
+  "version": "2.0.1",
+  "description": "The most used Brand & SocialMedia Colors for WebDevelopers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Thejuse@github.com/Thejuse/SocialColors.git"
+  },
+  "keywords": [
+    "css",
+    "css-prefix",
+    "brand",
+    "socialmedia-colors",
+    "less",
+    "opensource",
+    "scss",
+    "brandcolors"
+  ],
+  "author": "Julian Seidl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thejuse/SocialColors/issues"
+  },
+  "homepage": "https://socialcolors.jseidl.at/"
+}

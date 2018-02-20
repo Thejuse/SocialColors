@@ -1,8 +1,14 @@
 /*!
- *  SocialColors 2.0.1 by Julian Seidl
+ *  SocialColors 2.0.2 by Julian Seidl
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
+.sc.sc-algolia.sc-hover:hover {
+  color: #050f2c; }
+
+.sc.sc-algolia.sc-color {
+  color: #050f2c; }
+
 .sc.sc-amazon.sc-hover:hover {
   color: #ff9900; }
 
@@ -63,6 +69,24 @@
 .sc.sc-dailymotion.sc-color {
   color: #00aaff; }
 
+.sc.sc-deviantart.sc-hover:hover {
+  color: #05cc47; }
+
+.sc.sc-deviantart.sc-color {
+  color: #05cc47; }
+
+.sc.sc-digitalocean.sc-hover:hover {
+  color: #008bcf; }
+
+.sc.sc-digitalocean.sc-color {
+  color: #008bcf; }
+
+.sc.sc-discord.sc-hover:hover {
+  color: #7289da; }
+
+.sc.sc-discord.sc-color {
+  color: #7289da; }
+
 .sc.sc-docker.sc-hover:hover {
   color: #0db7ed; }
 
@@ -74,6 +98,12 @@
 
 .sc.sc-dropbox.sc-color {
   color: #007ee5; }
+
+.sc.sc-drupal.sc-hover:hover {
+  color: #0077c0; }
+
+.sc.sc-drupal.sc-color {
+  color: #0077c0; }
 
 .sc.sc-envato.sc-hover:hover {
   color: #82b541; }
@@ -170,6 +200,12 @@
 
 .sc.sc-jquery.sc-color {
   color: #0769ad; }
+
+.sc.sc-kundenmeister.sc-hover:hover {
+  color: #74508F; }
+
+.sc.sc-kundenmeister.sc-color {
+  color: #74508F; }
 
 .sc.sc-kickstarter.sc-hover:hover {
   color: #2bde73; }
@@ -434,7 +470,7 @@
 
 .sc.sc-zapier.sc-color {
   color: #ff4a00; }
-
+  
 .sc.sc-black.sc-hover:hover {
   color: #000000; }
 

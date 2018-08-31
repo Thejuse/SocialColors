@@ -1,5 +1,5 @@
 /*!
- *  SocialColors 2.0.2 by Julian Seidl
+ *  SocialColors 2.2.0 by Julian Seidl
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
@@ -585,6 +585,16 @@
             color: $sc-var-sketch;
         }
     }
+    &.#{$sc-css-prefix}-skype{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-skype;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-skype;
+        }
+    }
     &.#{$sc-css-prefix}-slack{
         &.#{$sc-css-prefix}-hover{
             &:hover{
@@ -713,6 +723,16 @@
         }
         &.#{$sc-css-prefix}-color{
             color: $sc-var-typo3;
+        }
+    }
+    &.#{$sc-css-prefix}-vk{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-vk;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-vk;
         }
     }
     &.#{$sc-css-prefix}-whatsapp{

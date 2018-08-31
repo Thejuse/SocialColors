@@ -351,6 +351,12 @@
 .sc.sc-sketch.sc-color {
   color: #f79801;
 }
+.sc.sc-skype.sc-hover:hover {
+  color: #00aff0;
+}
+.sc.sc-skype.sc-color {
+  color: #00aff0;
+}
 .sc.sc-slack.sc-hover:hover {
   color: #3eb991;
 }

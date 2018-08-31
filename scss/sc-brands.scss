@@ -715,6 +715,16 @@
             color: $sc-var-typo3;
         }
     }
+    &.#{$sc-css-prefix}-vk{
+        &.#{$sc-css-prefix}-hover{
+            &:hover{
+                color: $sc-var-vk;
+            }
+        }
+        &.#{$sc-css-prefix}-color{
+            color: $sc-var-vk;
+        }
+    }
     &.#{$sc-css-prefix}-whatsapp{
         &.#{$sc-css-prefix}-hover{
             &:hover{

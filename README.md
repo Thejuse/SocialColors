@@ -4,7 +4,7 @@
 ## Getting Started
 
 ### Download & Customize
-You want to manage & host SocialColors yourself? You can [download](https://github.com/Thejuse/SocialColors/zipball/master), customice and use the colors and default stylings manually. Both CSS and CSS Preprocessor (Less and SCSS) formats are included.
+You want to manage & host SocialColors yourself? You can [download](https://github.com/Thejuse/SocialColors/zipball/master), customice and use the colors and default stylings manually. Both CSS and CSS Preprocessor (SCSS) formats are included.
 
 ### Using CSS
 1. Copy the `socialcolors.css` in your CSS directory.
@@ -12,14 +12,14 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 3. Check out the examples to start using socialColors
 
 ### Using Less/SCSS
-1. Copy the `socialColors.less` or `socialColors.scss`  in your Less/SCSS/CSS directory.
+1. Copy the `socialColors.scss` or `socialColors.css`  in your SCSS/CSS directory.
 2. Open your project and edit the things you want.
-3. Re-Complie your Less/SCCS if using a static compiler. Otherwise, you should be good to go.
+3. Re-Complie your SCCS if using a static compiler. Otherwise, you should be good to go.
 4. Check out the examples
 
 ### Using CDN   
-CSS - `<link rel="stylesheet" href="https://cdn.jseidl.at/socialcolors/socialcolors.css">`    
-Min-CSS - `<link rel="stylesheet" href="https://cdn.jseidl.at/socialcolors/socialcolors.min.css">` 
+CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.0/css/socialcolors.css">`    
+Min-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.0/css/socialcolors.min.css">` 
 
 ### Using NPM
 `npm install socialcolors` - Add to your NPM-Project
@@ -28,17 +28,25 @@ Min-CSS - `<link rel="stylesheet" href="https://cdn.jseidl.at/socialcolors/socia
 
 ### Basic use
 
-
+#### Color
 You can place the socialColors enywhere using the CSS Prefix `sc` and the Brand name.   
 `<p class="sc sc-instagram sc-color>Test</p>"`
 
 You can also use it as an hover color using the CSS Prefix `sc-hover`   
 `<div class="sc sc-instagram sc-hover"></div>`
 
+#### Background-color
+#### Color
+  
+For a backgroundcolor you using the CSS Prefix `sc`, the brand name & `sc-background`
+`<p class="sc sc-instagram sc-background>Test</p>"`
+
+You can also use it as an hover backgroundcolor using the CSS Prefix `sc-background-hover`   
+`<div class="sc sc-instagram sc-background-hover"></div>`
 
 ## All Colors:
 
-View the Colors here: [socialcolors.jseidl.at](https://socialcolors.jseidl.at/)
+View the Colors here: [socialcolors.net](https://socialcolors.net/)
 
 ## Licence
 Copyright (c) 2017-2018 [Julian Seidl](https://www.jseidl.at)

@@ -5,6 +5,18 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Alibaba Color (ticket-13)
+- Airbnb Color (ticket-14)
+- AngularJS Color (ticket-12)
+- Asana Color (ticket-16)
+- Background Color & Background Hover (ticket-11)
+### Changed
+- Building Colors with loop (ticket-17)
+### Removed
+- Less support
+- Kundenmeister Color (ticket-15)
+- Color Black & White
 
 ## [2.2.0] - 2018-08-31
 ### Added

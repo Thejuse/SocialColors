@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - AngularJS Color (ticket-12)
 - Asana Color (ticket-16)
 - Background Color & Background Hover (ticket-11)
+- Adobe Color
+- Deezer Color
+- Ebay Color
+- Etsy Color
+- Everynote Color
+- Fontawesome Color
+- Heroku Color
+- Ikea Color
 ### Changed
 - Building Colors with loop (ticket-17)
 ### Removed

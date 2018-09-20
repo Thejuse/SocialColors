@@ -3,6 +3,18 @@
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
+.sc.sc-adobe.sc-hover:hover {
+  color: #ff0000; }
+
+.sc.sc-adobe.sc-color {
+  color: #ff0000; }
+
+.sc.sc-adobe.sc-background {
+  background-color: #ff0000; }
+
+.sc.sc-adobe.sc-background-hover:hover {
+  background-color: #ff0000; }
+
 .sc.sc-airbnb.sc-hover:hover {
   color: #fd5c63; }
 
@@ -183,6 +195,18 @@
 .sc.sc-dailymotion.sc-background-hover:hover {
   background-color: #00aaff; }
 
+.sc.sc-deezer.sc-hover:hover {
+  color: #ff0000; }
+
+.sc.sc-deezer.sc-color {
+  color: #ff0000; }
+
+.sc.sc-deezer.sc-background {
+  background-color: #ff0000; }
+
+.sc.sc-deezer.sc-background-hover:hover {
+  background-color: #ff0000; }
+
 .sc.sc-deviantart.sc-hover:hover {
   color: #05cc47; }
 
@@ -255,6 +279,18 @@
 .sc.sc-drupal.sc-background-hover:hover {
   background-color: #0077c0; }
 
+.sc.sc-ebay.sc-hover:hover {
+  color: #e53238; }
+
+.sc.sc-ebay.sc-color {
+  color: #e53238; }
+
+.sc.sc-ebay.sc-background {
+  background-color: #e53238; }
+
+.sc.sc-ebay.sc-background-hover:hover {
+  background-color: #e53238; }
+
 .sc.sc-envato.sc-hover:hover {
   color: #82b541; }
 
@@ -267,6 +303,30 @@
 .sc.sc-envato.sc-background-hover:hover {
   background-color: #82b541; }
 
+.sc.sc-etsy.sc-hover:hover {
+  color: #d5641c; }
+
+.sc.sc-etsy.sc-color {
+  color: #d5641c; }
+
+.sc.sc-etsy.sc-background {
+  background-color: #d5641c; }
+
+.sc.sc-etsy.sc-background-hover:hover {
+  background-color: #d5641c; }
+
+.sc.sc-everynote.sc-hover:hover {
+  color: #2dbe60; }
+
+.sc.sc-everynote.sc-color {
+  color: #2dbe60; }
+
+.sc.sc-everynote.sc-background {
+  background-color: #2dbe60; }
+
+.sc.sc-everynote.sc-background-hover:hover {
+  background-color: #2dbe60; }
+
 .sc.sc-facebook.sc-hover:hover {
   color: #3b5998; }
 
@@ -278,6 +338,18 @@
 
 .sc.sc-facebook.sc-background-hover:hover {
   background-color: #3b5998; }
+
+.sc.sc-fontawesome.sc-hover:hover {
+  color: #228ae6; }
+
+.sc.sc-fontawesome.sc-color {
+  color: #228ae6; }
+
+.sc.sc-fontawesome.sc-background {
+  background-color: #228ae6; }
+
+.sc.sc-fontawesome.sc-background-hover:hover {
+  background-color: #228ae6; }
 
 .sc.sc-github.sc-hover:hover {
   color: #4078c0; }
@@ -327,6 +399,18 @@
 .sc.sc-googleplus.sc-background-hover:hover {
   background-color: #dd4b39; }
 
+.sc.sc-heroku.sc-hover:hover {
+  color: #c9c3e6; }
+
+.sc.sc-heroku.sc-color {
+  color: #c9c3e6; }
+
+.sc.sc-heroku.sc-background {
+  background-color: #c9c3e6; }
+
+.sc.sc-heroku.sc-background-hover:hover {
+  background-color: #c9c3e6; }
+
 .sc.sc-html5.sc-hover:hover {
   color: #e34f26; }
 
@@ -338,6 +422,18 @@
 
 .sc.sc-html5.sc-background-hover:hover {
   background-color: #e34f26; }
+
+.sc.sc-ikea.sc-hover:hover {
+  color: #ffcc00; }
+
+.sc.sc-ikea.sc-color {
+  color: #ffcc00; }
+
+.sc.sc-ikea.sc-background {
+  background-color: #ffcc00; }
+
+.sc.sc-ikea.sc-background-hover:hover {
+  background-color: #ffcc00; }
 
 .sc.sc-imgur.sc-hover:hover {
   color: #85bf25; }

@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fontawesome Color
 - Heroku Color
 - Ikea Color
+- Viber Color
+- Vuejs Color
+- WeChat Color
+- Yahoo Color
+- Yelp Color
+- Zendesk Color
 ### Changed
 - Building Colors with loop (ticket-17)
 ### Removed

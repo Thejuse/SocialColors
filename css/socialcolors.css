@@ -999,6 +999,18 @@
 .sc.sc-typo3.sc-background-hover:hover {
   background-color: #ff8700; }
 
+.sc.sc-viber.sc-hover:hover {
+  color: #59267c; }
+
+.sc.sc-viber.sc-color {
+  color: #59267c; }
+
+.sc.sc-viber.sc-background {
+  background-color: #59267c; }
+
+.sc.sc-viber.sc-background-hover:hover {
+  background-color: #59267c; }
+
 .sc.sc-vk.sc-hover:hover {
   color: #45668e; }
 
@@ -1010,6 +1022,30 @@
 
 .sc.sc-vk.sc-background-hover:hover {
   background-color: #45668e; }
+
+.sc.sc-vuejs.sc-hover:hover {
+  color: #42b883; }
+
+.sc.sc-vuejs.sc-color {
+  color: #42b883; }
+
+.sc.sc-vuejs.sc-background {
+  background-color: #42b883; }
+
+.sc.sc-vuejs.sc-background-hover:hover {
+  background-color: #42b883; }
+
+.sc.sc-wechat.sc-hover:hover {
+  color: #7bb32e; }
+
+.sc.sc-wechat.sc-color {
+  color: #7bb32e; }
+
+.sc.sc-wechat.sc-background {
+  background-color: #7bb32e; }
+
+.sc.sc-wechat.sc-background-hover:hover {
+  background-color: #7bb32e; }
 
 .sc.sc-whatsapp.sc-hover:hover {
   color: #25d366; }
@@ -1071,6 +1107,30 @@
 .sc.sc-xing.sc-background-hover:hover {
   background-color: #026466; }
 
+.sc.sc-yahoo.sc-hover:hover {
+  color: #410093; }
+
+.sc.sc-yahoo.sc-color {
+  color: #410093; }
+
+.sc.sc-yahoo.sc-background {
+  background-color: #410093; }
+
+.sc.sc-yahoo.sc-background-hover:hover {
+  background-color: #410093; }
+
+.sc.sc-yelp.sc-hover:hover {
+  color: #af0606; }
+
+.sc.sc-yelp.sc-color {
+  color: #af0606; }
+
+.sc.sc-yelp.sc-background {
+  background-color: #af0606; }
+
+.sc.sc-yelp.sc-background-hover:hover {
+  background-color: #af0606; }
+
 .sc.sc-youtube.sc-hover:hover {
   color: #ff0000; }
 
@@ -1094,3 +1154,15 @@
 
 .sc.sc-zapier.sc-background-hover:hover {
   background-color: #ff4a00; }
+
+.sc.sc-zendesk.sc-hover:hover {
+  color: #00363d; }
+
+.sc.sc-zendesk.sc-color {
+  color: #00363d; }
+
+.sc.sc-zendesk.sc-background {
+  background-color: #00363d; }
+
+.sc.sc-zendesk.sc-background-hover:hover {
+  background-color: #00363d; }

@@ -25,8 +25,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Yahoo Color
 - Yelp Color
 - Zendesk Color
+- 500px
+- Bandcamp
+- Basecamp
+- Bing
+- Box
+- Buffer
+- Cloudflare
+- Flicker
+
 ### Changed
 - Building Colors with loop (ticket-17)
+
 ### Removed
 - Less support
 - Kundenmeister Color (ticket-15)

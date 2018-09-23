@@ -3,6 +3,18 @@
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
+.sc.sc-500px.sc-hover:hover {
+  color: #0099e5; }
+
+.sc.sc-500px.sc-color {
+  color: #0099e5; }
+
+.sc.sc-500px.sc-background {
+  background-color: #0099e5; }
+
+.sc.sc-500px.sc-background-hover:hover {
+  background-color: #0099e5; }
+
 .sc.sc-adobe.sc-hover:hover {
   color: #ff0000; }
 
@@ -111,6 +123,42 @@
 .sc.sc-atlassian.sc-background-hover:hover {
   background-color: #003366; }
 
+.sc.sc-bandcamp.sc-hover:hover {
+  color: #629aa9; }
+
+.sc.sc-bandcamp.sc-color {
+  color: #629aa9; }
+
+.sc.sc-bandcamp.sc-background {
+  background-color: #629aa9; }
+
+.sc.sc-bandcamp.sc-background-hover:hover {
+  background-color: #629aa9; }
+
+.sc.sc-basecamp.sc-hover:hover {
+  color: #b3dcff; }
+
+.sc.sc-basecamp.sc-color {
+  color: #b3dcff; }
+
+.sc.sc-basecamp.sc-background {
+  background-color: #b3dcff; }
+
+.sc.sc-basecamp.sc-background-hover:hover {
+  background-color: #b3dcff; }
+
+.sc.sc-bing.sc-hover:hover {
+  color: #ffb900; }
+
+.sc.sc-bing.sc-color {
+  color: #ffb900; }
+
+.sc.sc-bing.sc-background {
+  background-color: #ffb900; }
+
+.sc.sc-bing.sc-background-hover:hover {
+  background-color: #ffb900; }
+
 .sc.sc-bitbucket.sc-hover:hover {
   color: #205081; }
 
@@ -158,6 +206,42 @@
 
 .sc.sc-bookingcom.sc-background-hover:hover {
   background-color: #003580; }
+
+.sc.sc-box.sc-hover:hover {
+  color: #0061d5; }
+
+.sc.sc-box.sc-color {
+  color: #0061d5; }
+
+.sc.sc-box.sc-background {
+  background-color: #0061d5; }
+
+.sc.sc-box.sc-background-hover:hover {
+  background-color: #0061d5; }
+
+.sc.sc-buffer.sc-hover:hover {
+  color: #168eea; }
+
+.sc.sc-buffer.sc-color {
+  color: #168eea; }
+
+.sc.sc-buffer.sc-background {
+  background-color: #168eea; }
+
+.sc.sc-buffer.sc-background-hover:hover {
+  background-color: #168eea; }
+
+.sc.sc-cloudflare.sc-hover:hover {
+  color: #f38020; }
+
+.sc.sc-cloudflare.sc-color {
+  color: #f38020; }
+
+.sc.sc-cloudflare.sc-background {
+  background-color: #f38020; }
+
+.sc.sc-cloudflare.sc-background-hover:hover {
+  background-color: #f38020; }
 
 .sc.sc-codecademy.sc-hover:hover {
   color: #f65a5b; }
@@ -338,6 +422,18 @@
 
 .sc.sc-facebook.sc-background-hover:hover {
   background-color: #3b5998; }
+
+.sc.sc-flicker.sc-hover:hover {
+  color: #0063dc; }
+
+.sc.sc-flicker.sc-color {
+  color: #0063dc; }
+
+.sc.sc-flicker.sc-background {
+  background-color: #0063dc; }
+
+.sc.sc-flicker.sc-background-hover:hover {
+  background-color: #0063dc; }
 
 .sc.sc-fontawesome.sc-hover:hover {
   color: #228ae6; }

@@ -11,7 +11,7 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 2. In the `<head>` of your html, reference the location to your socialColors.css or socialColors.min.css   `<link rel="stylesheet" href"path/to/socialcolors.css">`
 3. Check out the examples to start using socialColors
 
-### Using Less/SCSS
+### Using SCSS
 1. Copy the `socialColors.scss` or `socialColors.css`  in your SCSS/CSS directory.
 2. Open your project and edit the things you want.
 3. Re-Complie your SCCS if using a static compiler. Otherwise, you should be good to go.
@@ -36,7 +36,6 @@ You can also use it as an hover color using the CSS Prefix `sc-hover`
 `<div class="sc sc-instagram sc-hover"></div>`
 
 #### Background-color
-#### Color
   
 For a backgroundcolor you using the CSS Prefix `sc`, the brand name & `sc-background`
 `<p class="sc sc-instagram sc-background>Test</p>"`

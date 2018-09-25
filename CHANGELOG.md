@@ -6,6 +6,44 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.0.0] - 2018-09-25
+### Added
+- Alibaba Color (ticket-13)
+- Airbnb Color (ticket-14)
+- AngularJS Color (ticket-12)
+- Asana Color (ticket-16)
+- Background Color & Background Hover (ticket-11)
+- Adobe Color
+- Deezer Color
+- Ebay Color
+- Etsy Color
+- Everynote Color
+- Fontawesome Color
+- Heroku Color
+- Ikea Color
+- Viber Color
+- Vuejs Color
+- WeChat Color
+- Yahoo Color
+- Yelp Color
+- Zendesk Color
+- 500px Color
+- Bandcamp Color
+- Basecamp Color
+- Bing Color
+- Box Color
+- Buffer Color
+- Cloudflare Color
+- Flicker Color
+
+### Changed
+- Building Colors with loop (ticket-17)
+
+### Removed
+- Less support
+- Kundenmeister Color (ticket-15)
+- Color Black & White
+
 ## [2.2.0] - 2018-08-31
 ### Added
 - VK Color

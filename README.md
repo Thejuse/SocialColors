@@ -46,7 +46,7 @@ You can also use it as an hover backgroundcolor using the CSS Prefix `sc-backgro
 
 ## All Colors:
 
-View the Colors here: [socialcolors.net](https://socialcolors.net/)
+View the Colors here: [socialcolors.net](https://www.socialcolors.net/)
 
 ## Licence
 Copyright (c) 2017-2018 [Julian Seidl](https://www.jseidl.at)

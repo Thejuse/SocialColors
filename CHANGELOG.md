@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [3.0.0] - 2018-09-25
 ### Added
 - Alibaba Color (ticket-13)
 - Airbnb Color (ticket-14)
@@ -25,14 +27,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Yahoo Color
 - Yelp Color
 - Zendesk Color
-- 500px
-- Bandcamp
-- Basecamp
-- Bing
-- Box
-- Buffer
-- Cloudflare
-- Flicker
+- 500px Color
+- Bandcamp Color
+- Basecamp Color
+- Bing Color
+- Box Color
+- Buffer Color
+- Cloudflare Color
+- Flicker Color
 
 ### Changed
 - Building Colors with loop (ticket-17)

@@ -1,4 +1,6 @@
 # SocialColors
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jseidlAT/5.99)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Thejuse/cookiebanner/blob/master/LICENSE)
 > The most used Brand & SocialMedia Colors for WebDevelopers
 
 ## Getting Started

@@ -1,5 +1,5 @@
 /*!
- *  SocialColors 3.0.0 by Julian Seidl
+ *  SocialColors 3.0.1 by Julian Seidl
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
@@ -700,16 +700,16 @@
   background-color: #f46f25; }
 
 .sc.sc-mailchimp.sc-hover:hover {
-  color: #239ab9; }
+  color: #ffe01b; }
 
 .sc.sc-mailchimp.sc-color {
-  color: #239ab9; }
+  color: #ffe01b; }
 
 .sc.sc-mailchimp.sc-background {
-  background-color: #239ab9; }
+  background-color: #ffe01b; }
 
 .sc.sc-mailchimp.sc-background-hover:hover {
-  background-color: #239ab9; }
+  background-color: #ffe01b; }
 
 .sc.sc-messenger.sc-hover:hover {
   color: #0084ff; }

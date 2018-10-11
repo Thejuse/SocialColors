@@ -20,8 +20,8 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 4. Check out the examples
 
 ### Using CDN   
-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.0/css/socialcolors.css">`    
-Min-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.0/css/socialcolors.min.css">` 
+CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.1/css/socialcolors.css">`    
+Min-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.0.1/css/socialcolors.min.css">` 
 
 ### Using NPM
 `npm install socialcolors` - Add to your NPM-Project

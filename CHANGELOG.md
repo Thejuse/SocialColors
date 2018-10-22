@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.1.0] - 2018-10-22
+### Added
+- Android Color (ticket-25)
+- Boostrap Color (ticket-28)
+- Bower Color (ticket-26)
+- About.me Color (ticket-22)
+- American Express Color (ticket-24)
+- Disqus Color (ticket-27)
+- EventBrite Color (ticket-19)
+- Gitter Color (ticket-29)
+- GoDaddy Color (ticket-30)
+- Gravatar Color (ticket-31)
+- Meetup Color (ticket-20)
+- Yandex Color (ticket-21)
+
 ## [3.0.1] - 2018-10-11
 ### Changed
 - new Mailchimp color (ticket-18)

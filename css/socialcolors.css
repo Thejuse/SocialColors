@@ -1,5 +1,5 @@
 /*!
- *  SocialColors 3.0.1 by Julian Seidl
+ *  SocialColors 3.1.0 by Julian Seidl
  *  License - MIT
  *  Copyright (c) 2017-2018 - Julian Seidl
  */
@@ -26,6 +26,18 @@
 
 .sc.sc-adobe.sc-background-hover:hover {
   background-color: #ff0000; }
+
+.sc.sc-aboutme.sc-hover:hover {
+  color: #00a98f; }
+
+.sc.sc-aboutme.sc-color {
+  color: #00a98f; }
+
+.sc.sc-aboutme.sc-background {
+  background-color: #00a98f; }
+
+.sc.sc-aboutme.sc-background-hover:hover {
+  background-color: #00a98f; }
 
 .sc.sc-airbnb.sc-hover:hover {
   color: #fd5c63; }
@@ -74,6 +86,30 @@
 
 .sc.sc-amazon.sc-background-hover:hover {
   background-color: #ff9900; }
+
+.sc.sc-americanexpress.sc-hover:hover {
+  color: #002663; }
+
+.sc.sc-americanexpress.sc-color {
+  color: #002663; }
+
+.sc.sc-americanexpress.sc-background {
+  background-color: #002663; }
+
+.sc.sc-americanexpress.sc-background-hover:hover {
+  background-color: #002663; }
+
+.sc.sc-android.sc-hover:hover {
+  color: #a4c639; }
+
+.sc.sc-android.sc-color {
+  color: #a4c639; }
+
+.sc.sc-android.sc-background {
+  background-color: #a4c639; }
+
+.sc.sc-android.sc-background-hover:hover {
+  background-color: #a4c639; }
 
 .sc.sc-angularjs.sc-hover:hover {
   color: #b52e31; }
@@ -207,6 +243,30 @@
 .sc.sc-bookingcom.sc-background-hover:hover {
   background-color: #003580; }
 
+.sc.sc-bootstrap.sc-hover:hover {
+  color: #563d7c; }
+
+.sc.sc-bootstrap.sc-color {
+  color: #563d7c; }
+
+.sc.sc-bootstrap.sc-background {
+  background-color: #563d7c; }
+
+.sc.sc-bootstrap.sc-background-hover:hover {
+  background-color: #563d7c; }
+
+.sc.sc-bower.sc-hover:hover {
+  color: #ffcc2f; }
+
+.sc.sc-bower.sc-color {
+  color: #ffcc2f; }
+
+.sc.sc-bower.sc-background {
+  background-color: #ffcc2f; }
+
+.sc.sc-bower.sc-background-hover:hover {
+  background-color: #ffcc2f; }
+
 .sc.sc-box.sc-hover:hover {
   color: #0061d5; }
 
@@ -327,6 +387,18 @@
 .sc.sc-discord.sc-background-hover:hover {
   background-color: #7289da; }
 
+.sc.sc-disqus.sc-hover:hover {
+  color: #2e9fff; }
+
+.sc.sc-disqus.sc-color {
+  color: #2e9fff; }
+
+.sc.sc-disqus.sc-background {
+  background-color: #2e9fff; }
+
+.sc.sc-disqus.sc-background-hover:hover {
+  background-color: #2e9fff; }
+
 .sc.sc-docker.sc-hover:hover {
   color: #0db7ed; }
 
@@ -398,6 +470,18 @@
 
 .sc.sc-etsy.sc-background-hover:hover {
   background-color: #d5641c; }
+
+.sc.sc-eventbrite.sc-hover:hover {
+  color: #ff8000; }
+
+.sc.sc-eventbrite.sc-color {
+  color: #ff8000; }
+
+.sc.sc-eventbrite.sc-background {
+  background-color: #ff8000; }
+
+.sc.sc-eventbrite.sc-background-hover:hover {
+  background-color: #ff8000; }
 
 .sc.sc-everynote.sc-hover:hover {
   color: #2dbe60; }
@@ -471,6 +555,30 @@
 .sc.sc-gitlab.sc-background-hover:hover {
   background-color: #fca326; }
 
+.sc.sc-gitter.sc-hover:hover {
+  color: #46bc99; }
+
+.sc.sc-gitter.sc-color {
+  color: #46bc99; }
+
+.sc.sc-gitter.sc-background {
+  background-color: #46bc99; }
+
+.sc.sc-gitter.sc-background-hover:hover {
+  background-color: #46bc99; }
+
+.sc.sc-godaddy.sc-hover:hover {
+  color: #7db701; }
+
+.sc.sc-godaddy.sc-color {
+  color: #7db701; }
+
+.sc.sc-godaddy.sc-background {
+  background-color: #7db701; }
+
+.sc.sc-godaddy.sc-background-hover:hover {
+  background-color: #7db701; }
+
 .sc.sc-google.sc-hover:hover {
   color: #4285f4; }
 
@@ -494,6 +602,18 @@
 
 .sc.sc-googleplus.sc-background-hover:hover {
   background-color: #dd4b39; }
+
+.sc.sc-gravatar.sc-hover:hover {
+  color: #1e8cbe; }
+
+.sc.sc-gravatar.sc-color {
+  color: #1e8cbe; }
+
+.sc.sc-gravatar.sc-background {
+  background-color: #1e8cbe; }
+
+.sc.sc-gravatar.sc-background-hover:hover {
+  background-color: #1e8cbe; }
 
 .sc.sc-heroku.sc-hover:hover {
   color: #c9c3e6; }
@@ -710,6 +830,18 @@
 
 .sc.sc-mailchimp.sc-background-hover:hover {
   background-color: #ffe01b; }
+
+.sc.sc-meetup.sc-hover:hover {
+  color: #e0393e; }
+
+.sc.sc-meetup.sc-color {
+  color: #e0393e; }
+
+.sc.sc-meetup.sc-background {
+  background-color: #e0393e; }
+
+.sc.sc-meetup.sc-background-hover:hover {
+  background-color: #e0393e; }
 
 .sc.sc-messenger.sc-hover:hover {
   color: #0084ff; }
@@ -1214,6 +1346,18 @@
 
 .sc.sc-yahoo.sc-background-hover:hover {
   background-color: #410093; }
+
+.sc.sc-yandex.sc-hover:hover {
+  color: #ffcc00; }
+
+.sc.sc-yandex.sc-color {
+  color: #ffcc00; }
+
+.sc.sc-yandex.sc-background {
+  background-color: #ffcc00; }
+
+.sc.sc-yandex.sc-background-hover:hover {
+  background-color: #ffcc00; }
 
 .sc.sc-yelp.sc-hover:hover {
   color: #af0606; }

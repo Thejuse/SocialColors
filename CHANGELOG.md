@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Android Color (ticket-25)
+- Boostrap Color (ticket-28)
+- Bower Color (ticket-26)
+- About.me Color (ticket-22)
 
 ## [3.0.1] - 2018-10-11
 ### Changed

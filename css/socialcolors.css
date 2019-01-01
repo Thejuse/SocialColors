@@ -1,7 +1,7 @@
 /*!
- *  SocialColors 3.1.0 by Julian Seidl
+ *  SocialColors 3.2.0 by Julian Seidl
  *  License - MIT
- *  Copyright (c) 2017-2018 - Julian Seidl
+ *  Copyright (c) 2017-2019 - Julian Seidl
  */
 .sc.sc-500px.sc-hover:hover {
   color: #0099e5; }
@@ -507,6 +507,18 @@
 .sc.sc-facebook.sc-background-hover:hover {
   background-color: #3b5998; }
 
+.sc.sc-fiverr.sc-hover:hover {
+  color: #00b22d; }
+
+.sc.sc-fiverr.sc-color {
+  color: #00b22d; }
+
+.sc.sc-fiverr.sc-background {
+  background-color: #00b22d; }
+
+.sc.sc-fiverr.sc-background-hover:hover {
+  background-color: #00b22d; }
+
 .sc.sc-flicker.sc-hover:hover {
   color: #0063dc; }
 
@@ -686,6 +698,18 @@
 
 .sc.sc-instagram.sc-background-hover:hover {
   background-color: #833ab4; }
+
+.sc.sc-invision.sc-hover:hover {
+  color: #ff3366; }
+
+.sc.sc-invision.sc-color {
+  color: #ff3366; }
+
+.sc.sc-invision.sc-background {
+  background-color: #ff3366; }
+
+.sc.sc-invision.sc-background-hover:hover {
+  background-color: #ff3366; }
 
 .sc.sc-ios.sc-hover:hover {
   color: #5fc9f8; }
@@ -939,6 +963,18 @@
 .sc.sc-octobercms.sc-background-hover:hover {
   background-color: #d65917; }
 
+.sc.sc-oebb.sc-hover:hover {
+  color: #e2002a; }
+
+.sc.sc-oebb.sc-color {
+  color: #e2002a; }
+
+.sc.sc-oebb.sc-background {
+  background-color: #e2002a; }
+
+.sc.sc-oebb.sc-background-hover:hover {
+  background-color: #e2002a; }
+
 .sc.sc-patreon.sc-hover:hover {
   color: #f96854; }
 
@@ -986,6 +1022,18 @@
 
 .sc.sc-pinterest.sc-background-hover:hover {
   background-color: #bd081c; }
+
+.sc.sc-plek.sc-hover:hover {
+  color: #e5a00d; }
+
+.sc.sc-plek.sc-color {
+  color: #e5a00d; }
+
+.sc.sc-plek.sc-background {
+  background-color: #e5a00d; }
+
+.sc.sc-plek.sc-background-hover:hover {
+  background-color: #e5a00d; }
 
 .sc.sc-prezi.sc-hover:hover {
   color: #318bff; }
@@ -1238,6 +1286,42 @@
 
 .sc.sc-viber.sc-background-hover:hover {
   background-color: #59267c; }
+
+.sc.sc-vimeo.sc-hover:hover {
+  color: #1ab7ea; }
+
+.sc.sc-vimeo.sc-color {
+  color: #1ab7ea; }
+
+.sc.sc-vimeo.sc-background {
+  background-color: #1ab7ea; }
+
+.sc.sc-vimeo.sc-background-hover:hover {
+  background-color: #1ab7ea; }
+
+.sc.sc-vine.sc-hover:hover {
+  color: #00b488; }
+
+.sc.sc-vine.sc-color {
+  color: #00b488; }
+
+.sc.sc-vine.sc-background {
+  background-color: #00b488; }
+
+.sc.sc-vine.sc-background-hover:hover {
+  background-color: #00b488; }
+
+.sc.sc-visa.sc-hover:hover {
+  color: #1a1f71; }
+
+.sc.sc-visa.sc-color {
+  color: #1a1f71; }
+
+.sc.sc-visa.sc-background {
+  background-color: #1a1f71; }
+
+.sc.sc-visa.sc-background-hover:hover {
+  background-color: #1a1f71; }
 
 .sc.sc-vk.sc-hover:hover {
   color: #45668e; }

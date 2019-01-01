@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.2.0]- 2019-01-01
+### Added
+- Visa Color
+- Vine Color
+- Vimeo Color
+- Plex Color
+- Oebb Color
+- Invision Color
+- Fiverr Color
+
+### Changed
+- Year in Readme
+- Year in Changelog
+- Year in other files
+
 ## [3.1.0] - 2018-10-22
 ### Added
 - Android Color (ticket-25)

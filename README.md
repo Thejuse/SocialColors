@@ -20,8 +20,8 @@ You want to manage & host SocialColors yourself? You can [download](https://gith
 4. Check out the examples
 
 ### Using CDN   
-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.1.0/css/socialcolors.css">`    
-Min-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.1.0/css/socialcolors.min.css">` 
+CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.2.0/css/socialcolors.css">`    
+Min-CSS - `<link rel="stylesheet" href="https://unpkg.com/socialcolors@3.2.0/css/socialcolors.min.css">` 
 
 ### Using NPM
 `npm install socialcolors` - Add to your NPM-Project
@@ -50,5 +50,5 @@ You can also use it as an hover backgroundcolor using the CSS Prefix `sc-backgro
 View the Colors here: [socialcolors.net](https://www.socialcolors.net/)
 
 ## Licence
-Copyright (c) 2017-2018 [Julian Seidl](https://www.jseidl.at)
+Copyright (c) 2017-2019 [Julian Seidl](https://www.jseidl.at)
 Licensed under the [MIT Licence](LICENCE)

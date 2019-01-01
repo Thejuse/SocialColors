@@ -50,5 +50,5 @@ You can also use it as an hover backgroundcolor using the CSS Prefix `sc-backgro
 View the Colors here: [socialcolors.net](https://www.socialcolors.net/)
 
 ## Licence
-Copyright (c) 2017-2018 [Julian Seidl](https://www.jseidl.at)
+Copyright (c) 2017-2019 [Julian Seidl](https://www.jseidl.at)
 Licensed under the [MIT Licence](LICENCE)

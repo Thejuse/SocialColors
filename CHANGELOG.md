@@ -10,6 +10,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Vine Color
 - Vimeo Color
 - Plek Color
+- Oebb Color
+- Invision Color
+- Fiverr Color
+
+### Changed
+- Year in Readme
+- Year in Changelog
 
 ## [3.1.0] - 2018-10-22
 ### Added

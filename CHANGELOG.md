@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Visa Color
 - Vine Color
 - Vimeo Color
-- Plek Color
+- Plex Color
 - Oebb Color
 - Invision Color
 - Fiverr Color

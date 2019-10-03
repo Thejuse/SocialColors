@@ -12,7 +12,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - DHL Color
 - ESL Color
 - iDEAL Color
+- Lieferando Color
 - Line Color
+- Mjam Color
 - UPS Color
 - USTREAM Color
 

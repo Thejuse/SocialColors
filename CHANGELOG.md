@@ -5,6 +5,16 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Apple Music Color
+- Behance Color
+- deliveroo Color
+- DHL Color
+- ESL Color
+- iDEAL Color
+- Line Color
+- UPS Color
+- USTREAM Color
 
 ## [3.2.0]- 2019-01-01
 ### Added

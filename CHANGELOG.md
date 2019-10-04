@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [3.3.0]- 2019-10-04
+### Added
+- Apple Music Color
+- Behance Color
+- deliveroo Color
+- DHL Color
+- ESL Color
+- iDEAL Color
+- Lieferando Color
+- Line Color
+- Mjam Color
+- UPS Color
+- USTREAM Color
+
 ## [3.2.0]- 2019-01-01
 ### Added
 - Visa Color
